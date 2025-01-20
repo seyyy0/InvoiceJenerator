@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="itext7-7.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jars/itext7-7.0.4/itext7-kernel-7.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/itext7-7.0.4/itext7-pdfa-7.0.4.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/slf4j-simple-2.0.16.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jars/slf4j-api-2.0.16.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/jars/itext7-7.0.4" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/jars/itext7-7.0.4" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/jars/itext7-7.0.4" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/jars/itext7-7.0.4" recursive="false" type="SOURCES" />
+  </library>
+</component>

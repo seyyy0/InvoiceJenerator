@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="invoice-generator-manual:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/invoice_generator_manual_jar</output-path>
+    <root id="archive" name="invoice-generator-manual.jar">
+      <element id="module-output" name="invoice-generator-manual" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itext7-7.0.4/itext7-pdfa-7.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-api-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-simple-2.0.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itext7-7.0.4/itext7-layout-7.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itext7-7.0.4/itext7-kernel-7.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itext7-7.0.4/itext7-io-7.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/itext7-7.0.4/itext7-forms-7.0.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
